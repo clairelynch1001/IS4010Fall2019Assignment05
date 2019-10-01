@@ -24,6 +24,12 @@ public class FootballFun {
 		} else {
 			System.out.println("At least one test failed");
 		}
+		
+		/**
+		 * Create a method where you translate the football score and return the description of that score
+		 * @param score
+		 * @return All Tests passed
+		 */
 	}
 	public static String translateScore (int score) {
 		if (score == 2) {
